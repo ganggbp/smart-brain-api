@@ -1,3 +1,3 @@
 # smart-brain-api
 
-Final project for ZTM course
+this is a backend section for smart-brain project.
